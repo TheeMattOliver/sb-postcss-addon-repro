@@ -1,5 +1,7 @@
 # Repro
 
+[Bug report is here](https://github.com/storybookjs/addon-postcss/issues/39)
+
 Install
 `yarn`
 
